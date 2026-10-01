@@ -39,7 +39,7 @@ Visualizations & Insights
 - SQL
 - Jupyter Notebook
 - Matplotlib / Seaborn
-- Hadoop / HDFS *(if applicable)*
+- Hadoop / HDFS 
 
 ## Project Structure
 

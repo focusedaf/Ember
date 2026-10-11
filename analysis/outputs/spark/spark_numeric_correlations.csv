@@ -1,0 +1,16 @@
+﻿feature_a,feature_b,n_pairs,spearman
+scored_by,members,64833,0.96
+chapters,volumes,38884,0.834
+members,favorites,64833,0.769
+scored_by,favorites,64833,0.734
+score,favorites,24636,0.641
+score,members,24636,0.513
+score,scored_by,24636,0.44
+score,chapters,19939,0.364
+score,volumes,18322,0.352
+favorites,volumes,48211,0.34
+favorites,chapters,46042,0.31
+members,volumes,48211,0.272
+scored_by,volumes,48211,0.199
+members,chapters,46042,0.184
+scored_by,chapters,46042,0.087

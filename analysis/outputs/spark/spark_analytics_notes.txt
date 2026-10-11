@@ -1,0 +1,11 @@
+EMBER SPARK ANALYTICS - INTERPRETATION NOTES
+Rows: 64,833
+- score averages use rated titles only; see rated_count / pct_rated in every table.
+- weighted_score = Bayesian average with m=50, C=6.945.
+- members/favorites are engagement proxies, not sales; they are heavily skewed, so prefer median_* columns over mean_*.
+- Genre/theme/demographic rows overlap (one title can appear in several).
+- Groups with rated_count < 30 are flagged reliable=False.
+- Correlations are Spearman, computed pairwise on rows with both values (see n_pairs).
+- Correlation does not establish causation; large series are survivorship-biased.
+- Recent years may be incomplete or unrated due to the snapshot date.
+- Findings describe this catalogue snapshot only.

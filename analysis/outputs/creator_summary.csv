@@ -1,31 +1,51 @@
-﻿creator,title_count,average_score,total_members
-Osamu Tezuka,138,7.241,316965.0
-Go Nagai,120,6.493,151485.0
-Ryuu Sugahara,116,6.648,9048.0
-Mi Ri Hwang,101,7.054,102536.0
-Nano Aiuchi,89,,5967.0
-Hikaru Wakatsuki,81,7.5,9395.0
-Yuzuki N',71,6.743,35876.0
-Haruka Fuse,70,,5554.0
-Tasuku Saika,69,6.92,5366.0
-Ken Takeuchi,66,,4007.0
-Ryukishi07,65,7.58,325013.0
-ISIN NISIO,57,7.502,396961.0
-CLAMP,57,7.143,573589.0
-Bohra Naono,56,7.021,54264.0
-Kano Miyamoto,55,7.1,55345.0
-Akira,54,6.831,18138.0
-Junji Itou,51,7.172,761791.0
-Shigeru Mizuki,50,7.18,18552.0
-Riyu Yamakami,50,6.843,32010.0
-Shimaji,49,6.46,20182.0
-Kazuma Kamachi,49,7.517,146057.0
-Haruka Minami,49,6.849,70219.0
-Nagano Ueda,48,,3535.0
-Moto Hagio,48,7.202,43421.0
-Izumi Shimazu,48,7.04,4436.0
-Ichirou Sakaki,48,6.959,22963.0
-Hajime Yatate,48,6.966,39222.0
-Zero no Mono,47,6.545,4435.0
-Yoshikazu Ishiba,47,,2648.0
-Masara Minase,46,6.994,74014.0
+﻿creator,title_count,rated_count,average_score,total_members
+Osamu Tezuka,138,79,7.241,316965.0
+Go Nagai,120,63,6.493,151485.0
+Ryuu Sugahara,116,5,6.648,9048.0
+Mi Ri Hwang,101,49,7.054,102536.0
+Nano Aiuchi,89,0,,5967.0
+Hikaru Wakatsuki,81,2,7.5,9395.0
+Yuzuki N',71,21,6.743,35876.0
+Haruka Fuse,70,0,,5554.0
+Tasuku Saika,69,1,6.92,5366.0
+Ken Takeuchi,66,0,,4007.0
+Ryukishi07,65,55,7.58,325013.0
+ISIN NISIO,57,41,7.502,396961.0
+CLAMP,57,51,7.143,573589.0
+Bohra Naono,56,40,7.02,54264.0
+Kano Miyamoto,55,49,7.1,55345.0
+Akira,54,7,6.831,18138.0
+Junji Itou,51,48,7.172,761791.0
+Shigeru Mizuki,50,8,7.18,18552.0
+Riyu Yamakami,50,38,6.843,32010.0
+Shimaji,49,23,6.46,20182.0
+Kazuma Kamachi,49,30,7.517,146057.0
+Haruka Minami,49,41,6.849,70219.0
+Ichirou Sakaki,48,9,6.959,22963.0
+Nagano Ueda,48,0,,3535.0
+Izumi Shimazu,48,1,7.04,4436.0
+Hajime Yatate,48,18,6.966,39222.0
+Moto Hagio,48,16,7.202,43421.0
+Zero no Mono,47,2,6.545,4435.0
+Yoshikazu Ishiba,47,0,,2648.0
+Masara Minase,46,36,6.994,74014.0
+Yutaka Aohashi,45,0,,2878.0
+Shoutarou Ishinomori,44,23,6.949,31566.0
+Shin Kibayashi,44,27,7.319,144128.0
+You Higuri,44,26,6.745,31428.0
+Asumiko Nakamura,43,38,7.158,166079.0
+Youko Kagura,43,0,,2213.0
+Tetsu Habara,42,0,,2380.0
+Kaiji Kawaguchi,42,8,7.142,24911.0
+Yu-Rang Han,42,29,6.999,49637.0
+Usagi Youmou,42,0,,1401.0
+Miel,42,0,,2678.0
+Nekogen,42,1,6.86,3826.0
+Nase Yamato,41,32,6.962,39539.0
+DUO BRAND.,41,7,6.87,7033.0
+Atelier Kaguya,41,1,7.11,5315.0
+Makoto Tateno,41,22,7.02,35101.0
+Haruka Maezono,41,0,,2631.0
+Kazuko Fujita,41,8,6.845,9265.0
+Variety Art Works,40,4,6.438,14653.0
+Keiko Kinoshita,40,14,6.861,13460.0

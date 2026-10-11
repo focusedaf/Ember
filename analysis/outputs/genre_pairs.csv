@@ -1,0 +1,140 @@
+﻿genre_a,genre_b,pair_count,rated_count,mean_score,median_members,count_a,count_b,lift,reliable
+Boys Love,Erotica,7613,4271,6.901,361.0,9610,8844,5.591,True
+Comedy,Romance,5286,2859,7.019,561.0,14099,16876,1.387,True
+Action,Fantasy,3778,1776,7.019,414.0,8910,10952,2.417,True
+Drama,Romance,3388,2044,7.082,649.5,9303,16876,1.347,True
+Adventure,Fantasy,2682,1354,7.028,486.5,3912,10952,3.907,True
+Fantasy,Romance,2646,1211,7.043,382.0,10952,16876,0.894,True
+Comedy,Fantasy,2440,1158,6.994,391.5,14099,10952,0.986,True
+Action,Adventure,2208,1149,7.071,541.0,8910,3912,3.954,True
+Comedy,Slice of Life,2163,925,7.084,275.0,14099,5155,1.858,True
+Comedy,Ecchi,2073,1028,6.705,445.0,14099,3569,2.572,True
+Comedy,Supernatural,1843,922,7.029,426.0,14099,7471,1.092,True
+Action,Supernatural,1790,954,7.088,547.0,8910,7471,1.679,True
+Action,Comedy,1777,914,7.065,499.0,8910,14099,0.883,True
+Romance,Supernatural,1697,895,7.089,542.0,16876,7471,0.84,True
+Action,Sci-Fi,1537,689,7.011,387.0,8910,3231,3.333,True
+Ecchi,Romance,1506,750,6.789,503.5,3569,16876,1.561,True
+Boys Love,Drama,1485,1021,7.023,578.0,9610,9303,1.037,True
+Fantasy,Supernatural,1458,679,7.159,376.5,10952,7471,1.112,True
+Action,Drama,1336,768,7.221,797.0,8910,9303,1.006,True
+Drama,Supernatural,1301,754,7.172,650.0,9303,7471,1.168,True
+Drama,Erotica,1281,907,6.971,613.0,9303,8844,0.972,True
+Romance,Slice of Life,1263,718,7.039,569.0,16876,5155,0.906,True
+Comedy,Drama,1220,766,7.214,762.0,14099,9303,0.581,True
+Drama,Fantasy,1138,660,7.194,651.0,9303,10952,0.697,True
+Action,Romance,981,523,7.145,622.0,8910,16876,0.407,True
+Boys Love,Comedy,961,645,6.976,591.0,9610,14099,0.443,True
+Drama,Slice of Life,952,492,7.172,396.0,9303,5155,1.239,True
+Erotica,Romance,938,685,6.975,822.5,8844,16876,0.392,True
+Boys Love,Romance,927,690,7.014,828.0,9610,16876,0.357,True
+Hentai,Supernatural,896,127,6.745,77.5,11208,7471,0.668,True
+Adventure,Comedy,894,462,7.043,482.0,3912,14099,1.012,True
+Mystery,Supernatural,837,428,7.189,469.0,2441,7471,2.865,True
+Comedy,Erotica,826,584,6.902,655.5,14099,8844,0.413,True
+Drama,Mystery,779,440,7.252,719.0,9303,2441,2.141,True
+Action,Ecchi,751,407,6.793,606.0,8910,3569,1.474,True
+Horror,Supernatural,746,421,6.951,646.0,1699,7471,3.669,True
+Drama,Sci-Fi,718,380,7.21,553.5,9303,3231,1.491,True
+Boys Love,Supernatural,687,372,7.022,337.0,9610,7471,0.597,True
+Comedy,Sci-Fi,687,319,6.959,354.0,14099,3231,0.941,True
+Ecchi,Fantasy,677,294,6.734,334.0,3569,10952,1.081,True
+Ecchi,Supernatural,642,332,6.771,582.0,3569,7471,1.503,True
+Erotica,Girls Love,563,332,6.635,384.0,8844,1608,2.471,True
+Boys Love,Slice of Life,544,366,7.136,573.0,9610,5155,0.685,True
+Erotica,Supernatural,536,306,6.904,374.5,8844,7471,0.506,True
+Fantasy,Sci-Fi,511,230,7.119,382.0,10952,3231,0.901,True
+Action,Mystery,498,264,7.174,598.5,8910,2441,1.429,True
+Adventure,Drama,492,306,7.267,893.0,3912,9303,0.844,True
+Fantasy,Hentai,489,52,6.789,82.0,10952,11208,0.249,True
+Adventure,Romance,488,278,7.203,650.5,3912,16876,0.461,True
+Boys Love,Fantasy,479,249,7.018,341.0,9610,10952,0.284,True
+Romance,Sci-Fi,476,257,7.089,580.5,16876,3231,0.545,True
+Horror,Mystery,461,275,7.094,927.0,1699,2441,6.939,True
+Erotica,Fantasy,455,252,6.785,425.0,8844,10952,0.293,True
+Adventure,Sci-Fi,452,220,7.117,458.5,3912,3231,2.232,True
+Adventure,Supernatural,405,215,7.238,552.0,3912,7471,0.865,True
+Drama,Horror,400,274,7.065,1195.5,9303,1699,1.58,True
+Erotica,Slice of Life,379,276,7.061,684.0,8844,5155,0.519,True
+Erotica,Hentai,376,131,6.503,212.5,8844,11208,0.237,True
+Fantasy,Slice of Life,361,179,7.075,484.0,10952,5155,0.399,True
+Action,Horror,359,226,6.95,1083.0,8910,1699,1.48,True
+Comedy,Girls Love,356,221,6.897,610.0,14099,1608,0.98,True
+Mystery,Romance,355,184,7.17,542.0,2441,16876,0.538,True
+Fantasy,Mystery,354,175,7.3,473.5,10952,2441,0.827,True
+Slice of Life,Supernatural,350,141,7.025,252.5,5155,7471,0.567,True
+Sci-Fi,Supernatural,330,193,7.04,678.0,3231,7471,0.853,True
+Drama,Ecchi,307,195,6.782,1099.0,9303,3569,0.577,True
+Comedy,Mystery,289,153,7.19,518.0,14099,2441,0.524,True
+Comedy,Sports,287,131,7.041,354.0,14099,1116,1.139,True
+Drama,Girls Love,283,195,6.798,801.0,9303,1608,1.181,True
+Ecchi,Sci-Fi,256,145,6.733,578.0,3569,3231,1.386,True
+Boys Love,Hentai,233,58,6.393,177.0,9610,11208,0.135,True
+Fantasy,Horror,231,132,7.066,741.0,10952,1699,0.775,True
+Girls Love,Slice of Life,224,167,6.977,914.5,1608,5155,1.687,True
+Mystery,Sci-Fi,222,126,7.209,689.0,2441,3231,1.757,True
+Girls Love,Hentai,214,84,6.6,230.5,1608,11208,0.741,True
+Gourmet,Slice of Life,214,67,7.144,141.5,410,5155,6.32,True
+Girls Love,Romance,213,164,6.779,906.0,1608,16876,0.49,True
+Adventure,Ecchi,200,111,6.692,725.5,3912,3569,0.894,True
+Hentai,Romance,199,93,6.912,247.0,11208,16876,0.066,True
+Drama,Sports,192,98,7.425,405.5,9303,1116,1.154,True
+Romance,Sports,182,116,7.09,728.5,16876,1116,0.603,True
+Award Winning,Drama,181,143,7.875,4525.0,439,9303,2.766,True
+Adventure,Mystery,177,88,7.279,473.0,3912,2441,1.157,True
+Ecchi,Slice of Life,167,79,6.763,420.0,3569,5155,0.567,True
+Comedy,Hentai,164,82,6.828,300.5,14099,11208,0.065,True
+Drama,Hentai,154,59,6.622,184.0,9303,11208,0.092,True
+Action,Erotica,151,99,6.872,809.0,8910,8844,0.12,True
+Comedy,Gourmet,143,54,7.107,184.0,14099,410,1.544,True
+Horror,Romance,141,93,7.002,1071.0,1699,16876,0.307,True
+Drama,Suspense,134,75,7.282,1278.5,9303,519,1.732,True
+Action,Suspense,133,51,7.197,263.0,8910,519,1.795,True
+Mystery,Suspense,133,56,7.309,394.0,2441,519,6.553,True
+Sci-Fi,Slice of Life,131,63,7.211,404.0,3231,5155,0.491,True
+Action,Boys Love,131,87,7.276,753.0,8910,9610,0.095,True
+Award Winning,Comedy,129,95,7.751,2479.0,439,14099,1.301,True
+Fantasy,Girls Love,128,84,6.823,529.0,10952,1608,0.454,True
+Horror,Sci-Fi,128,81,6.961,883.5,1699,3231,1.455,True
+Comedy,Horror,125,79,6.807,874.0,14099,1699,0.326,True
+Award Winning,Romance,117,95,7.723,4442.0,439,16876,0.986,True
+Girls Love,Supernatural,116,60,6.692,341.5,1608,7471,0.603,True
+Horror,Suspense,113,63,7.188,927.0,1699,519,7.999,True
+Supernatural,Suspense,104,55,7.39,647.0,7471,519,1.674,True
+Adventure,Slice of Life,102,51,7.201,477.5,3912,5155,0.316,True
+Ecchi,Girls Love,96,61,6.526,629.5,3569,1608,1.044,True
+Boys Love,Mystery,96,51,7.173,350.5,9610,2441,0.255,True
+Hentai,Sci-Fi,90,11,6.834,56.5,11208,3231,0.155,False
+Award Winning,Slice of Life,80,53,7.755,1242.5,439,5155,2.207,True
+Mystery,Slice of Life,77,37,7.168,533.0,2441,5155,0.382,True
+Slice of Life,Sports,77,24,7.294,197.0,5155,1116,0.835,False
+Ecchi,Horror,74,50,6.448,1385.5,3569,1699,0.762,True
+Adventure,Boys Love,74,47,7.34,646.0,3912,9610,0.123,True
+Action,Slice of Life,74,40,7.069,448.5,8910,5155,0.101,True
+Ecchi,Mystery,72,37,6.754,621.5,3569,2441,0.516,True
+Action,Award Winning,72,62,7.974,8524.0,8910,439,1.149,True
+Boys Love,Sci-Fi,69,36,6.911,327.0,9610,3231,0.139,True
+Adventure,Erotica,69,47,6.821,935.0,3912,8844,0.124,True
+Fantasy,Gourmet,65,34,7.126,611.0,10952,410,0.904,True
+Erotica,Sci-Fi,64,36,6.799,395.0,8844,3231,0.14,True
+Hentai,Horror,63,36,5.938,410.0,11208,1699,0.207,True
+Ecchi,Sports,62,30,6.726,481.5,3569,1116,0.972,True
+Action,Girls Love,57,33,6.746,549.0,8910,1608,0.248,True
+Adventure,Horror,55,28,7.252,603.0,3912,1699,0.517,False
+Action,Sports,54,25,7.133,425.5,8910,1116,0.339,False
+Award Winning,Sports,51,29,7.927,670.0,439,1116,6.498,False
+Girls Love,Sci-Fi,51,32,6.677,589.0,1608,3231,0.613,True
+Ecchi,Hentai,51,14,6.696,156.0,3569,11208,0.08,False
+Award Winning,Supernatural,50,41,7.821,5502.5,439,7471,0.952,True
+Gourmet,Romance,49,23,7.241,348.0,410,16876,0.442,False
+Adventure,Award Winning,47,43,8.082,22417.0,3912,439,1.708,True
+Erotica,Mystery,45,25,7.032,371.0,8844,2441,0.13,False
+Boys Love,Horror,45,27,6.966,668.0,9610,1699,0.172,False
+Award Winning,Sci-Fi,44,39,7.863,8181.5,439,3231,1.936,True
+Ecchi,Erotica,44,24,6.35,433.0,3569,8844,0.087,False
+Sci-Fi,Suspense,38,16,7.374,358.5,3231,519,1.415,False
+Drama,Gourmet,37,15,7.408,206.0,9303,410,0.606,False
+Award Winning,Fantasy,37,34,7.9,13046.0,439,10952,0.48,True
+Romance,Suspense,36,22,6.984,1812.0,16876,519,0.257,False
+Erotica,Horror,34,22,6.615,741.5,8844,1699,0.141,False
+Action,Hentai,30,10,6.235,221.0,8910,11208,0.019,False

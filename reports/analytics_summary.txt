@@ -1,22 +1,25 @@
-EMBER — ANALYTICS SUMMARY
+EMBER - ANALYTICS SUMMARY (pandas)
 Input: data\processed\manga_cleaned.csv
 Rows: 64,833
-Columns: 31
+Columns: 34
 
 Available columns:
-manga_id, title, type, score, scored_by, status, volumes, chapters, start_date, end_date, members, favorites, sfw, approved, created_at_before, updated_at, real_start_date, real_end_date, genres, themes, demographics, authors, serializations, synopsis, background, main_picture, url, title_english, title_japanese, title_synonyms, content_format
+manga_id, title, type, score, scored_by, status, volumes, chapters, start_date, end_date, members, favorites, sfw, approved, created_at_before, updated_at, real_start_date, real_end_date, genres, themes, demographics, authors, serializations, synopsis, background, main_picture, url, title_english, title_japanese, title_synonyms, content_format, pub_year, genre_list, n_genres
 
 Generated output tables:
 - format_summary.csv: 7 rows
 - rating_summary.csv: 1 rows
-- creator_summary.csv: 30 rows
 - publication_year.csv: 83 rows
 - popularity_summary.csv: 50 rows
 - genre_summary.csv: 21 rows
-- numeric_correlations.csv: 6 rows
+- genre_pairs.csv: 139 rows
+- creator_summary.csv: 50 rows
+- numeric_correlations.csv: 8 rows
 
 Interpretation notes:
 - Averages exclude missing numeric values.
-- Popularity uses the dataset's members/favorites fields as proxies, not actual sales.
+- Correlations here are Spearman (matches the Spark script).
+- Popularity uses members/favorites as proxies, not actual sales.
+- lift > 1 means a genre pair co-occurs more than chance.
 - Correlation does not establish causation.
-- Findings describe this source dataset only; do not generalize to formats not represented.
+- Findings describe this source dataset only.

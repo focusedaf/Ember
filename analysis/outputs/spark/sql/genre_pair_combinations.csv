@@ -1,0 +1,101 @@
+﻿genre_a,genre_b,pair_count,rated_count,mean_score,mean_weighted_score,median_members
+Boys Love,Erotica,7613,4271,6.901,6.924,361.0
+Comedy,Romance,5286,2859,7.019,7.028,560.0
+Action,Fantasy,3778,1776,7.019,7.027,414.0
+Drama,Romance,3388,2044,7.082,7.089,649.0
+Adventure,Fantasy,2682,1354,7.028,7.035,486.0
+Fantasy,Romance,2646,1211,7.043,7.051,382.0
+Comedy,Fantasy,2440,1158,6.994,7.005,391.0
+Action,Adventure,2208,1149,7.071,7.077,540.0
+Comedy,Slice of Life,2163,925,7.084,7.088,275.0
+Comedy,Ecchi,2073,1028,6.705,6.744,445.0
+Comedy,Supernatural,1843,922,7.029,7.04,426.0
+Action,Supernatural,1790,954,7.088,7.095,547.0
+Action,Comedy,1777,914,7.065,7.073,499.0
+Romance,Supernatural,1697,895,7.089,7.093,542.0
+Action,Sci-Fi,1537,689,7.011,7.021,387.0
+Ecchi,Romance,1506,750,6.789,6.813,503.0
+Boys Love,Drama,1485,1021,7.023,7.037,578.0
+Fantasy,Supernatural,1458,679,7.159,7.159,376.0
+Action,Drama,1336,768,7.221,7.219,796.0
+Drama,Supernatural,1301,754,7.172,7.175,650.0
+Drama,Erotica,1281,907,6.971,6.989,613.0
+Romance,Slice of Life,1263,718,7.039,7.048,569.0
+Comedy,Drama,1220,766,7.214,7.215,758.0
+Drama,Fantasy,1138,660,7.194,7.19,651.0
+Action,Romance,981,523,7.145,7.144,622.0
+Boys Love,Comedy,961,645,6.976,6.993,591.0
+Drama,Slice of Life,952,492,7.172,7.174,395.0
+Erotica,Romance,938,685,6.975,6.988,819.0
+Boys Love,Romance,927,690,7.014,7.025,828.0
+Hentai,Supernatural,896,127,6.745,6.798,77.0
+Adventure,Comedy,894,462,7.043,7.05,481.0
+Mystery,Supernatural,837,428,7.189,7.191,469.0
+Comedy,Erotica,826,584,6.902,6.927,653.0
+Drama,Mystery,779,440,7.252,7.246,719.0
+Action,Ecchi,751,407,6.793,6.823,606.0
+Horror,Supernatural,746,421,6.951,6.971,641.0
+Drama,Sci-Fi,718,380,7.21,7.207,552.0
+Boys Love,Supernatural,687,372,7.022,7.033,337.0
+Comedy,Sci-Fi,687,319,6.959,6.976,354.0
+Ecchi,Fantasy,677,294,6.734,6.768,334.0
+Ecchi,Supernatural,642,332,6.771,6.801,581.0
+Erotica,Girls Love,563,332,6.635,6.696,384.0
+Boys Love,Slice of Life,544,366,7.136,7.136,573.0
+Erotica,Supernatural,536,306,6.904,6.926,372.0
+Fantasy,Sci-Fi,511,230,7.119,7.12,382.0
+Action,Mystery,498,264,7.174,7.177,596.0
+Adventure,Drama,492,306,7.267,7.262,892.0
+Fantasy,Hentai,489,52,6.789,6.828,82.0
+Adventure,Romance,488,278,7.203,7.197,649.0
+Boys Love,Fantasy,479,249,7.018,7.025,341.0
+Romance,Sci-Fi,476,257,7.089,7.091,579.0
+Horror,Mystery,461,275,7.094,7.097,927.0
+Erotica,Fantasy,455,252,6.785,6.815,425.0
+Adventure,Sci-Fi,452,220,7.117,7.119,458.0
+Adventure,Supernatural,405,215,7.238,7.239,552.0
+Drama,Horror,400,274,7.065,7.077,1192.0
+Erotica,Slice of Life,379,276,7.061,7.067,684.0
+Erotica,Hentai,376,131,6.503,6.607,212.0
+Fantasy,Slice of Life,361,179,7.075,7.075,484.0
+Action,Horror,359,226,6.95,6.971,1083.0
+Comedy,Girls Love,356,221,6.897,6.923,610.0
+Mystery,Romance,355,184,7.17,7.166,542.0
+Fantasy,Mystery,354,175,7.3,7.286,469.0
+Slice of Life,Supernatural,350,141,7.025,7.026,251.0
+Sci-Fi,Supernatural,330,193,7.04,7.047,673.0
+Drama,Ecchi,307,195,6.782,6.812,1099.0
+Comedy,Mystery,289,153,7.19,7.189,518.0
+Comedy,Sports,287,131,7.041,7.053,354.0
+Drama,Girls Love,283,195,6.798,6.835,801.0
+Ecchi,Sci-Fi,256,145,6.733,6.771,574.0
+Boys Love,Hentai,233,58,6.393,6.531,177.0
+Fantasy,Horror,231,132,7.066,7.077,741.0
+Girls Love,Slice of Life,224,167,6.977,6.993,912.0
+Mystery,Sci-Fi,222,126,7.209,7.207,673.0
+Girls Love,Hentai,214,84,6.6,6.676,230.0
+Gourmet,Slice of Life,214,67,7.144,7.142,138.0
+Girls Love,Romance,213,164,6.779,6.812,906.0
+Adventure,Ecchi,200,111,6.692,6.731,724.0
+Hentai,Romance,199,93,6.912,6.936,247.0
+Drama,Sports,192,98,7.425,7.411,398.0
+Romance,Sports,182,116,7.09,7.097,682.0
+Award Winning,Drama,181,143,7.875,7.85,4525.0
+Adventure,Mystery,177,88,7.279,7.278,473.0
+Ecchi,Slice of Life,167,79,6.763,6.795,420.0
+Comedy,Hentai,164,82,6.828,6.869,300.0
+Drama,Hentai,154,59,6.622,6.694,182.0
+Action,Erotica,151,99,6.872,6.891,809.0
+Comedy,Gourmet,143,54,7.107,7.113,184.0
+Horror,Romance,141,93,7.002,7.015,1071.0
+Drama,Suspense,134,75,7.282,7.289,1202.0
+Action,Suspense,133,51,7.197,7.211,263.0
+Mystery,Suspense,133,56,7.309,7.306,394.0
+Action,Boys Love,131,87,7.276,7.266,753.0
+Sci-Fi,Slice of Life,131,63,7.211,7.21,404.0
+Award Winning,Comedy,129,95,7.751,7.725,2479.0
+Fantasy,Girls Love,128,84,6.823,6.862,525.0
+Horror,Sci-Fi,128,81,6.961,6.98,874.0
+Comedy,Horror,125,79,6.807,6.842,874.0
+Award Winning,Romance,117,95,7.723,7.699,4442.0
+Girls Love,Supernatural,116,60,6.692,6.73,338.0

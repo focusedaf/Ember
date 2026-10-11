@@ -1,0 +1,35 @@
+DISTRIBUTED-STYLE PROCESSING DEMO (genre-pair job)
+========================================================
+Spark master                  : local[*]
+Default parallelism           : 12
+Input DataFrame partitions    : 8
+spark.sql.shuffle.partitions  : 4
+
+Rows per input partition:
+ partition  count
+         0   8104
+         1   8104
+         2   8105
+         3   8104
+         4   8104
+         5   8104
+         6   8104
+         7   8104
+
+Physical plan (look for 'Exchange hashpartitioning' = the shuffle):
+== Physical Plan ==
+AdaptiveSparkPlan isFinalPlan=false
++- HashAggregate(keys=[genre_a#38644, genre_b#38646], functions=[count(1), avg(score#63)])
+   +- Exchange hashpartitioning(genre_a#38644, genre_b#38646, 4), ENSURE_REQUIREMENTS, [plan_id=3558]
+      +- HashAggregate(keys=[genre_a#38644, genre_b#38646], functions=[partial_count(1), partial_avg(score#63)])
+         +- Filter (genre_a#38644 < genre_b#38646)
+            +- Generate explode(genre_list#1887), [score#63, genre_a#38644], false, [genre_b#38646]
+               +- Generate explode(genre_list#1887), [score#63, genre_list#1887], false, [genre_a#38644]
+                  +- Filter (size(genre_list#1887, false) > 0)
+                     +- InMemoryTableScan [score#63, genre_list#1887], [(size(genre_list#1887, false) > 0)]
+   ... (cached input scan omitted)
+Timing (same aggregation, warm Spark run):
+  Spark  :     0.19 s  (199 distinct pairs)
+  Pandas :     0.21 s  (199 distinct pairs)
+  Note: on one laptop Spark can be slower than pandas; the point is the
+  explode -> shuffle -> aggregate pattern, which scales by adding executors.

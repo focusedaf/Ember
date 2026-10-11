@@ -1,0 +1,84 @@
+EMBER - DATA QUALITY REPORT
+==================================================
+
+Source file: manga.csv
+Original rows: 64833
+Original columns: 30
+Cleaned rows: 64833
+Cleaned columns: 31
+Exact duplicate rows found: 0
+Duplicate IDs found: 0
+Invalid ratings changed to missing: 0
+Invalid date ranges corrected: 53
+
+Invalid negative counts changed to missing:
+scored_by: 0
+volumes: 0
+chapters: 0
+members: 0
+favorites: 0
+
+Unparseable non-empty dates:
+start_date: 0
+end_date: 0
+real_start_date: 0
+real_end_date: 0
+
+CONTENT FORMAT DISTRIBUTION
+------------------------------
+content_format
+Manga          44077
+Light Novel    10224
+One-shot        5248
+Manhwa          2986
+Doujinshi       1816
+Manhua           350
+Novel            132
+
+MISSING VALUES AFTER CLEANING
+------------------------------
+manga_id: 0 (0.00%)
+title: 0 (0.00%)
+type: 0 (0.00%)
+score: 40197 (62.00%)
+scored_by: 0 (0.00%)
+status: 0 (0.00%)
+volumes: 16622 (25.64%)
+chapters: 18791 (28.98%)
+start_date: 1883 (2.90%)
+end_date: 12954 (19.98%)
+members: 0 (0.00%)
+favorites: 0 (0.00%)
+sfw: 0 (0.00%)
+approved: 0 (0.00%)
+created_at_before: 0 (0.00%)
+updated_at: 2155 (3.32%)
+real_start_date: 1883 (2.90%)
+real_end_date: 12901 (19.90%)
+genres: 2412 (3.72%)
+themes: 40536 (62.52%)
+demographics: 38491 (59.37%)
+authors: 550 (0.85%)
+serializations: 21389 (32.99%)
+synopsis: 19931 (30.74%)
+background: 53400 (82.37%)
+main_picture: 56 (0.09%)
+url: 0 (0.00%)
+title_english: 46117 (71.13%)
+title_japanese: 1133 (1.75%)
+title_synonyms: 31448 (48.51%)
+content_format: 0 (0.00%)
+
+CLEANING DECISIONS
+------------------------------
+- Preserved the original raw dataset.
+- Removed exact duplicate rows and duplicate IDs.
+- Standardized column names and content-format labels.
+- Normalized type values using lowercase and underscores.
+- Converted numeric columns and publication dates.
+- Invalid ratings and negative counts were set to missing.
+- Missing ratings, dates, chapters and volumes were retained.
+- List-like metadata was normalized using | separators.
+- Author names were extracted from first_name and last_name fields where available.
+- End dates earlier than start dates were cleared.
+- This report covers the current MyAnimeList source only.

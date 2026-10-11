@@ -1,0 +1,14 @@
+Rows: 64833
+Columns: 30
+Duplicate rows: 0
+
+Missing values:
+title             0
+type              0
+score         40197
+genres            0
+authors           0
+start_date     1883
+end_date      12901
+chapters      18791
+volumes       16622

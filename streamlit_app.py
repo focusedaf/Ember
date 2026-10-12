@@ -3,7 +3,8 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-ROOT = Path(__file__).resolve().parent.parent
+HERE = Path(__file__).resolve().parent
+ROOT = next((p for p in (HERE, HERE.parent) if (p / "visualizations").exists()), HERE)
 SPARK_DIR = ROOT / "analysis" / "outputs" / "spark"
 VIZ_DIR = ROOT / "visualizations"
 REPO_URL = "https://github.com/focusedaf/Ember"

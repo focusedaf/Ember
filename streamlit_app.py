@@ -11,11 +11,14 @@ REPO_URL = "https://github.com/focusedaf/Ember"
 
 st.set_page_config(page_title="EMBER - Decay Analytics", layout="wide")
 
-
-@st.cache_data
 def load(name):
     path = SPARK_DIR / f"{name}.csv"
-    return pd.read_csv(path) if path.exists() else None
+    return read_csv_cached(path) if path.exists() else None
+
+
+@st.cache_data
+def read_csv_cached(path):
+    return pd.read_csv(path)
 
 
 def show_chart(name, caption=None):
